@@ -57,6 +57,26 @@ Contribuições são bem vindas!
 
 ## Git
 
+### Cursos
+
+* [Git e Github para Iniciantes - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPA2iEiQ2PF_A9j__C4hi0A)
+* [Git e Github na Vida Real - Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)
+* [Curso Git e Github - Professor Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+* [Tutorial Git e Github: Introdução prática para iniciantes - Nelio Alves](https://youtu.be/_hZf1teRFNg)
+
+### Livros
+
+* [Pro Git - Scott Chacon e Ben Straub](https://git-scm.com/book/pt-br/v2)
+
+### Cheat sheet
+
+* [LINUXtips Git (pdf)](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-git.pdf)
+* [Danny Adams Git 50 commands](https://dev.to/doabledanny/git-cheat-sheet-50-commands-free-pdf-and-poster-4gcn)
+
+### App/Tutorial Interativo
+
+* [Learn Git Branching - Peter Cottle](https://pcottle.github.io/learnGitBranching/)
+
 ## Kubernetes
 
 ### Livros
