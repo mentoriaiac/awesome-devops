@@ -29,6 +29,18 @@ Contribuições são bem vindas!
 
 ## AWS
 
+### Cursos
+
+* [AWS Skillbuilder](https://explore.skillbuilder.aws/learn)
+
+### Guias de Estudo
+
+* [Guias de Estudo da AWS](https://aws.amazon.com/pt/training/ramp-up-guides/)
+
+### Workshops
+
+* [AWS Workshops](https://workshops.aws/)
+
 ## CI/CD
 
 ## Docker
