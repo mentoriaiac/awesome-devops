@@ -102,6 +102,19 @@ Contribuições são bem vindas!
 
 ## Linux
 
+### Cursos
+
+* [Curso básico de Linux pela Network Development Group (NDG)](https://www.netacad.com/pt-br/courses/os-it/ndg-linux-unhatched)
+* [Curso pela 4Linux - LINUX FUNDAMENTALS](https://4linux.com.br/cursos/treinamento/linux-fundamentals/)
+* [Curso pela 4Linux - LINUX ESSENTIALS](https://4linux.com.br/cursos/treinamento/linux-essentials/)
+* [Curso pela FIAP - LINUX FUNDAMENTOS](https://www.eucapacito.com.br/curso-ec/linux-fundamentos/)
+
+
+### Sites
+
+* [Ambiente interativo para pratica de estudos semelhantes ao Katacoda (Killercoda)](https://killercoda.com/)
+* []()
+
 ### Livros
 
 * [Guia Foca Linux: Iniciante+Intermediário  - Gleydson Mazioli da Silva](https://www.guiafoca.org/guiaonline/inicianteintermediario/)
