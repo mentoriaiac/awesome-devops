@@ -108,16 +108,23 @@ Contribuições são bem vindas!
 * [Curso pela 4Linux - LINUX FUNDAMENTALS](https://4linux.com.br/cursos/treinamento/linux-fundamentals/)
 * [Curso pela 4Linux - LINUX ESSENTIALS](https://4linux.com.br/cursos/treinamento/linux-essentials/)
 * [Curso pela FIAP - LINUX FUNDAMENTOS](https://www.eucapacito.com.br/curso-ec/linux-fundamentos/)
+* [Curso em video - Linux primeiros passos - Professor Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV)
+* [Canal do Bóson Treinamentos - Linux Básico/Certificação LPIC1 - Fábio dos Reis](https://www.youtube.com/playlist?list=PLucm8g_ezqNp92MmkF9p_cj4yhT-fCTl7)
+* [Canal do Willian Justen Cursos - (WSL) Criando um ambiente de Desenvolvimento no Windows](https://www.youtube.com/playlist?list=PLlAbYrWSYTiOpefWtd6uvwgKT1R-94Zfd)
 
 
 ### Sites
 
 * [Ambiente interativo para pratica de estudos semelhantes ao Katacoda (Killercoda)](https://killercoda.com/)
-* []()
 
 ### Livros
 
-* [Guia Foca Linux: Iniciante+Intermediário  - Gleydson Mazioli da Silva](https://www.guiafoca.org/guiaonline/inicianteintermediario/)
+* [Guia Foca Linux: Iniciante+Intermediário  - Gleydson Mazioli da Silva](https://www.guiafoca.org/guiaonline/inicianteintermediario
+
+### Cheat sheet
+
+* [ Cheat Sheet Linux I - NIC.br (Comandos) por lucasjorge](https://cheatography.com/lucasjorge/cheat-sheets/linux-i-nic-br-comandos/)
+* [ Chear Sheet Linux - LINUXtips (pdf)](https://github.com/badtuxx/cheatsheet/blob/main/cheatsheet-linux.pdf)
 
 ## Nomad
 
