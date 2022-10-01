@@ -116,10 +116,12 @@ Contribuições são bem vindas!
 ### Sites
 
 * [Ambiente interativo para pratica de estudos semelhantes ao Katacoda (Killercoda)](https://killercoda.com/)
+* [OnWorks - permite executar um Ambiente Desktop apenas usando seu navegador da web](https://www.onworks.net/)
 
 ### Livros
 
-* [Guia Foca Linux: Iniciante+Intermediário  - Gleydson Mazioli da Silva](https://www.guiafoca.org/guiaonline/inicianteintermediario
+* [Guia Foca Linux: Iniciante+Intermediário  - Gleydson Mazioli da Silva](https://www.guiafoca.org/guiaonline/inicianteintermediario)
+* [Manual Linux - Geovanne Tanazio](https://geovanneatanazio.github.io/manual_linux/)
 
 ### Cheat sheet
 
